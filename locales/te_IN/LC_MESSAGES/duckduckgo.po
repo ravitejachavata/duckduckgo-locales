@@ -19,7 +19,7 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
 msgid "!Bang Search Shortcuts"
-msgstr "!బ్యాంగ్ సెర్చ్ కు షార్ట్కట్"
+msgstr "!Bang సెర్చ్ కు షార్ట్కట్"
 
 msgctxt "showcase_donations"
 msgid "$800,000 in privacy donations!"
@@ -30,21 +30,19 @@ msgid "%s Billion Searches"
 msgstr "%s బిలియన్ అన్వేషణలు"
 
 msgid "%s blocked by safe search."
-msgstr "%s సేఫ్ సెర్చ్ చే బ్లాక్ చెయ్యబడినది"
+msgstr "%s సేఫ్ సెర్చ్ చే దిగ్బందింబడినది"
 
-#. We realise this is the incorrect way to handle plurals. Sorry, we are working on a fix.
 msgctxt "published dates for organic results"
 msgid "%s days ago"
-msgstr ""
+msgstr "%s రోజుల క్రితం"
 
 #. in https://duckduckgo.com/params. multiple fors
 msgid "%s for %s"
-msgstr "%s అంటే %s"
+msgstr "%s కొరకు %s"
 
-#. We realise this is the incorrect way to handle plurals. Sorry, we are working on a fix.
 msgctxt "published dates for organic results"
 msgid "%s hours ago"
-msgstr ""
+msgstr "%s గంటల క్రితం"
 
 msgctxt "showcase_donations"
 msgid "%s in privacy donations!"
@@ -82,7 +80,7 @@ msgstr "%s%s%s బిలియన్ అన్వేషణలు"
 #. The placeholder here will be a bold number. Sorry, this is hard to translate.
 msgctxt "homepage ATB social proof"
 msgid "%s%s%s reviews"
-msgstr ""
+msgstr "%s%s%s సమీక్షలు"
 
 msgctxt "install-duckduckgo"
 msgid "%sClick %sAllow%sClick %sAdd%sCheck %sAllow%s, then click %sOkay%s"
@@ -100,34 +98,28 @@ msgid ""
 "search."
 msgstr "ఫలితాలు ఉన్నాయి అని భావిస్తున్నారా, మరొక్కసారి ప్రయత్నిచటానికి %sClick here%s"
 
-#  Marked fuzzy because of translated trademark
-#, fuzzy
 msgctxt "frontpage"
 msgid "%sHelp Spread DuckDuckGo!%s"
-msgstr "%sడక్ డక్ గో ని వ్యాపించుటకు సహాయం చెయ్యండి!%s"
+msgstr "%sDuckDuckGo వ్యాప్తికి సహాయం చెయ్యండి!%s"
 
-#  Marked fuzzy because of translated trademark
-#, fuzzy
 msgctxt "frontpage"
 msgid "%sHelp Spread DuckDuckGo%s."
-msgstr "%sడక్ డక్ గో ని వ్యాపించుటకు సహాయం చెయ్యండి!%s"
+msgstr "%sDuckDuckGo ని వ్యాప్తికి సహాయం చెయ్యండి!%s"
 
 msgctxt "frontpage"
 msgid "%sLearn More%s."
 msgstr "%sఇంకా తెలుసుకోండి%s."
 
 msgid "%sRight click%s in the search bar"
-msgstr "సెర్చ్ బార్ లో %sRight click%s చెయ్యండి"
+msgstr "సెర్చ్ బార్ లో %sకుడి click%s చెయ్యండి"
 
-#. We realise this is the incorrect way to handle plurals. Sorry, we are working on a fix.
 msgctxt "published dates for organic results"
 msgid "1 day ago"
-msgstr ""
+msgstr "1 రోజు క్రితం"
 
-#. We realise this is the incorrect way to handle plurals. Sorry, we are working on a fix.
 msgctxt "published dates for organic results"
 msgid "1 hour ago"
-msgstr ""
+msgstr "1 గంట క్రితం"
 
 msgctxt "install-extension"
 msgid "1. Open %sDownloads%s"
@@ -139,7 +131,7 @@ msgstr "%sduckduckgo.safariextz%s రెండు సార్లు నొక�
 
 #. https://duckduckgo.com/params in the end under " Source:"
 msgid "A string to identify the source."
-msgstr "మూలాన్ని గుర్తించుటకై పదబంధం."
+msgstr "మూలాన్ని గుర్తించుటకై సూత్రం."
 
 msgctxt "settings"
 msgid "ATB Dismiss"
@@ -209,14 +201,15 @@ msgstr "మీ సైటులో %s సెర్చ్ బాక్సని �
 msgid ""
 "Add privacy protection to your browser. Search privately, block trackers, "
 "secure connections, and more — all for free."
-msgstr ""
+msgstr "మీ బ్రౌజరుకి రక్షణ జతచేయండి. గోప్యతతో శోధించండి, ట్రాకెర్స్ ని దిగ్బందించండి,"
+"సురక్షితమైన కనెక్షన్లు, మరియు ఎన్నో - పూర్తి ఉచితంగా."
 
 #. In the top menu under Team Duck -- %s will be browser names, like Firefox.
 msgid "Add to %s"
-msgstr "%s కు జోడించండి"
+msgstr "%s కు జతచేయండి"
 
 msgid "Add to Home Screen"
-msgstr "హోమ్ స్క్రీన్ పై జత చేసుకోండి"
+msgstr "హోమ్ స్క్రీన్ పై జతచేయండి"
 
 #. In the top menu under Goodies
 msgid "Add-ons"
@@ -232,7 +225,7 @@ msgstr "చిరునామా పట్టీ:"
 
 #. as in multiple advertisements
 msgid "Ads"
-msgstr ""
+msgstr "ప్రకటనలు"
 
 msgctxt "feedback form"
 msgid "Advertisements"
@@ -253,7 +246,7 @@ msgstr "డౌన్లోడ్ అయ్యి, తెరుచుకున్
 msgid ""
 "After it downloads, locate the extension file and double-click it to install"
 msgstr ""
-"డౌన్లోడ్ అయ్యిన తరువాత ఎక్స్టెన్షన్ ఫైల్ కోసం వెతకండి, తరువాత ఇన్స్టాల్ చేయుటకై దాని పై రెండు సార్లు నొక్కండి"
+"డౌన్లోడ్ అయ్యిన తరువాత ఎక్స్టెన్షన్ ఫైల్ కోసం వెతకండి, తరువాత install చేయుటకై దాని పై రెండు సార్లు నొక్కండి"
 
 msgid "All"
 msgstr "అన్ని"
@@ -295,10 +288,6 @@ msgctxt "homepage onboarding"
 msgid "Already a fan?"
 msgstr "ముందుగానే మా అభిమాన ?"
 
-#  Marked fuzzy because of translated trademark
-#. For rotating carousel on the home page.
-#. "Help Spread DuckDuckGo!" links to /spread page
-#, fuzzy
 msgctxt "frontpage"
 msgid "Already a fan? %sHelp Spread DuckDuckGo!%s"
 msgstr "ముందుగానే మా అభిమాన ? %sHelp Spread DuckDuckGo!%s"
@@ -311,12 +300,9 @@ msgstr "గోప్యత తో అన్వేషించండి మీ �
 msgid "Alternatives"
 msgstr "ప్రత్యామ్నాయాలు"
 
-#  Marked fuzzy because of translated trademark
-#. http://i.imgur.com/89c3nJI.png
-#, fuzzy
 msgctxt "settingsvalue"
 msgid "Always play on DuckDuckGo"
-msgstr "ఎల్లప్పుడూ డక్‌డక్‌గో లోనే చూపించు"
+msgstr "ఎల్లప్పుడూ DuckDuckGo లోనే చూపించు"
 
 msgctxt "image-type"
 msgid "Animated GIF"
@@ -324,7 +310,7 @@ msgstr "ఆనిమేటెడ్ GIF"
 
 msgctxt "precise_user_location"
 msgid "Anonymous location enabled."
-msgstr ""
+msgstr "అనామిక ప్రదేశం ఆన్ చేయబడినది"
 
 #. Instant Answer tab name
 msgid "Answer"
@@ -373,11 +359,11 @@ msgstr "అనువర్తనాలు"
 
 msgctxt "feedback form"
 msgid "Are these ads helpful?"
-msgstr ""
+msgstr "ఈ ప్రకటనలు సహాయకరమైనవా ?"
 
 msgctxt "feedback form"
 msgid "Are these links helpful?"
-msgstr ""
+msgstr "ఈ లింక్స్ సహాయకరమైనవా ?"
 
 msgid "Argentina"
 msgstr "ఆర్జెంటినా"
@@ -386,12 +372,12 @@ msgid ""
 "As per our privacy policy, we do not collect or share any personal "
 "information ourselves. All of this privacy protection happens on your device."
 msgstr ""
-"మా గోప్యత పాలసీ ప్రకారం మీ వ్యక్తిగత వివరాలు కూడగటుట లేదా పంచుట జరగదు. మీ వివరాలు మీతోనే మరియు ఈ "
+"మా గోప్యత పాలసీ ప్రకారం మీ వ్యక్తిగత వివరాలు సేకరించుట లేదా పంచుట జరగదు. మీ వివరాలు మీతోనే మరియు ఈ "
 "గోప్యత రక్షణ అంత కేవలం మీ డివైస్ పైనే!"
 
 msgctxt "homepage ATB modal"
 msgid "At DuckDuckGo, we agree."
-msgstr "DuckDuckGo లో, మేము నమ్ముతాము"
+msgstr "DuckDuckGo వద్ద, మేము నమ్ముతాము"
 
 msgid "Audio"
 msgstr "ఆడియో"
@@ -410,15 +396,15 @@ msgstr "స్వయం-ప్రతిపాదనలు"
 #. http://i.imgur.com/OZIO1I9.png
 msgctxt "settings"
 msgid "Automatically open relevant Instant Answers"
-msgstr "సంబంధిత తక్షణ జవాబులను ఆటోమెటిగ్గా తెరుస్తుంది"
+msgstr "సంబంధిత తక్షణ జవాబులను స్వయంచాలకంగా తెరుస్తుంది"
 
 #. Used to show the numerical rating, when the user hovers over a visual star-rating. Sorry, this is hard to translate.
 msgctxt "homepage ATB social proof"
 msgid "Average rating: %s out of 5"
-msgstr ""
+msgstr "సగటు రేటింగ్: 5 కి గాను %s"
 
 msgid "Avoid eavesdropping and enhance wi-fi security."
-msgstr "పొంచి వినుటను అరికట్టండి మరియు మీ వైఫై సెక్యూరిటీ ని పెంచుకోండి"
+msgstr "పొంచివినుటను అరికట్టండి మరియు మీ వైఫై సెక్యూరిటీ ని పెంచుకోండి"
 
 msgctxt "homepage onboarding"
 msgid "Back to search"
@@ -445,12 +431,12 @@ msgstr "బ్యాంగ్ వర్గము"
 #. Subcategory
 msgctxt "newbang"
 msgid "Bang command"
-msgstr "బ్యాంగ్ ఆదేశం"
+msgstr "Bang ఆదేశం"
 
 #. https://duckduckgo.com/newbang
 #. e.g.: Bang command, e.g. duckduckgo (usually is domain name, e.g. nytimes) 
 msgid "Bang command, e.g. %s (usually is domain name, e.g. %s)"
-msgstr "బ్యాంగ్ కమాండ్, ఉ.దా. %s (సాధారణంగా డొమైన్ పేరు, ఉ.దా. %s)"
+msgstr "Bang కమాండ్, ఉ.దా. %s (సాధారణంగా డొమైన్ పేరు, ఉ.దా. %s)"
 
 #. In <a href="https://duckduckgo.com/newbang">duckduckgo.com/newbang</a> in the error message <br/>
 #. <br/>
@@ -499,7 +485,7 @@ msgstr "ప్రాథమికం"
 
 msgctxt "precise_user_location"
 msgid "Before you go, please help us understand why:"
-msgstr ""
+msgstr "మీరు వెళ్ళేముందు, మాకు అర్ధమవ్వటానికి సహాయం చెయ్యండి, ఎందుకు:"
 
 msgid "Belgium (fr)"
 msgstr "బెల్జియం (fr)"
